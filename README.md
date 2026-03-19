@@ -2,36 +2,36 @@
 A simple and user-friendly Handloom E-commerce Website where users can browse, explore, and purchase traditional handloom products online.
  
 ## The system supports main users.
- 1.Guest User
- 2.Registered/Login User
- 3.Admin User
+ 1. Guest User
+ 2. Registered/Login User
+ 3. Admin User
  
 ## Guest User
  A guest user can access the website without logging in.
 
-1.View homepage:
+1. View homepage:
  Guest arrives, browses handloom products (sarees, fabrics, home decor)
-2.Browse handloom products(Sarees, Top, Material,etc..)
-3.Search and filter items
-4.View product details
-5.Add items to cart:
+2. Browse handloom products(Sarees, Top, Material,etc..)
+3. Search and filter items
+4. View product details
+5. Add items to cart:
  Add items to a temporary session-based cart.
-6.Purchases.
+6. Purchases.
 
 ## Registered/Login User
  A registered user who logs into the system.
  
-1.All guest user features/Authentication: 
+1. All guest user features/Authentication: 
  Login vianame, email and phone number.
-2.Save address:
+2. Save address:
  Multiple shipping addresses for fast checkout.
-3.Checkout and place orders:
+3. Checkout and place orders:
  Automatic pre-filling of shipping and billing information.
-4.View order history
- 1.Order confirmation
- 2.Order history
- 3.Order tracking (Processing, Shipped, Delivered)
-5.Track orders:
+4. View order history
+ 1. Order confirmation
+ 2. Order history
+ 3. Order tracking (Processing, Shipped, Delivered)
+5. Track orders:
   Order tracking, easy return requests, and loyalty rewards. 
 
   ## Admin User
