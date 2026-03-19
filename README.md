@@ -6,7 +6,7 @@ A simple and user-friendly Handloom E-commerce Website where users can browse, e
  2.Registered/Login User
  3.Admin User
  
-##Guest User
+## Guest User
  A guest user can access the website without logging in.
 
 1.View homepage:
@@ -18,7 +18,7 @@ A simple and user-friendly Handloom E-commerce Website where users can browse, e
  Add items to a temporary session-based cart.
 6.Purchases.
 
-##Registered/Login User
+## Registered/Login User
  A registered user who logs into the system.
  
 1.All guest user features/Authentication: 
@@ -34,7 +34,7 @@ A simple and user-friendly Handloom E-commerce Website where users can browse, e
 5.Track orders:
   Order tracking, easy return requests, and loyalty rewards. 
 
-  ##Admin User
+  ## Admin User
   This user type focuses on managing inventory, authenticity, and fulfilling orders.
   
   1. Admin Dashboard:
@@ -49,7 +49,7 @@ A simple and user-friendly Handloom E-commerce Website where users can browse, e
   4. Communication:
      Receive alerts for new orders and interact with the platform admin for support    
   
-##Comparison of Users Table
+## Comparison of Users Table
 This section compares the workflows of different user types in the Handloom E-commerce platform.
 
 | Feature              | Guest User | Login User     | Admin User   |
