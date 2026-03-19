@@ -17,7 +17,7 @@ A simple and user-friendly Handloom E-commerce Website where users can browse, e
  Add items to a temporary session-based cart.
 5. Purchases.
 
-## Registered/Login User
+##📋 Registered/Login User
  A registered user who logs into the system.
  
 1. All guest user features/Authentication:
@@ -26,14 +26,14 @@ A simple and user-friendly Handloom E-commerce Website where users can browse, e
  Multiple shipping addresses for fast checkout.
 3. Checkout and place orders:
  Automatic pre-filling of shipping and billing information.
-4. 📝 View order history
+4. View order history
    1. Order confirmation
    2. Order history
    3. Order tracking (Processing, Shipped, Delivered)
 5. Track orders:
   Order tracking, easy return requests, and loyalty rewards. 
 
-  ## Admin User
+  ##📈 Admin User
   This user type focuses on managing inventory, authenticity, and fulfilling orders.
   
   1. Admin Dashboard:
