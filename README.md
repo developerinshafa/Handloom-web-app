@@ -15,10 +15,9 @@
 3. Search and filter items:  
    image, peice, description
 4. View the product details
-5.  Add items to cart:  
+5.  Add items to cart: 
    1. update quantity / remove item
-   2. view selected products
-   3. Add items to a temporary session-based cart.
+   2. Add items to a temporary session-based cart.
 
 ## 📝 Registered/Login User
  A registered user who logs into the system.
