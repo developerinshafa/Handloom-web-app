@@ -51,15 +51,15 @@ A simple and user-friendly Handloom E-commerce Website where users can browse, e
 ## Comparison of Users Table
 This section compares the workflows of different user types in the Handloom E-commerce platform.
 
-| Feature                | Guest User    | Login User       | Admin User     |
-| :--------------------- | :------------ | :--------------- | :--------------|
-| View Products          |  Yes          |   Yes            |  Yes           |
-| Add / Edit Products    |  N/A          |   N/A            |  Yes           |
-| Search / Filter        |  Yes          |   Yes            |  N/A           |
-| Add to Cart            |  Yes          |   Yes            |  N/A           |
-| Register / Login       |  Yes          | Already Logged   |  N/A           |
-| Track Orders           |  N/A          |   Yes            | Manage Orders  |
-| Dashboard Access       |  N/A          |   N/A            | Full Access    |
+| Feature                      | Guest User       | Login User          | Admin User        |
+| :--------------------------- | :--------------- | :------------------ | :---------------- |
+| View Products                |  Yes             |   Yes               |  Yes              |
+| Add / Edit Products          |  N/A             |   N/A               |  Yes              |
+| Search / Filter              |  Yes             |   Yes               |  N/A              |
+| Add to Cart                  |  Yes             |   Yes               |  N/A              |
+| Register / Login             |  Yes             | Already Logged      |  N/A              |
+| Track Orders                 |  N/A             |   Yes               | Manage Orders     |
+| Dashboard Access             |  N/A             |   N/A               | Full Access       |
   
 
 ### Author
