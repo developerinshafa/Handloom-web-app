@@ -74,7 +74,7 @@ This section compares the workflows of different user types in the Handloom E-co
 
 ## Reference Site
 1. Dribbble:
- https://www.google.com/search? q=handloom+web+app+ui&rlz=1C1KNTJ_enLK1045LK1045&oq=handloom+web+app+ui&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAT IHCAQQIRigATIHCAUQIRifBdIBCTEzNDkyajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8
+ https://dribbble.com/search/handloom
 3. pinterest:
   https://www.pinterest.com/search/pins/?q=handloom&rs=typed
 
