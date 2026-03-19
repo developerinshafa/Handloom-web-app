@@ -9,13 +9,13 @@
 ## 🙍‍♂️ Guest User
  A guest user can access the website without logging in.
 
-1. **View homepage:**
+1. **View homepage:**  
  Guest arrives, browses handloom products (Sarees, Top, Material, etc..)
  Categories : Cotton, Silk, Handmade....
-3. Search and filter items:
+3. Search and filter items:  
    image, peice, description
 4. View the product details
-5.  Add items to cart:
+5.  Add items to cart:  
    1. update quantity / remove item
    2. view selected products
    3. Add items to a temporary session-based cart.
