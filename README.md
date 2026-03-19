@@ -1,4 +1,4 @@
-# Handloom E-commerce Platform
+# 🧵🧣 Handloom E-commerce Platform
 A simple and user-friendly Handloom E-commerce Website where users can browse, explore, and purchase traditional handloom products online.
  
 ## The system supports main users.
@@ -6,7 +6,7 @@ A simple and user-friendly Handloom E-commerce Website where users can browse, e
  2. Registered/Login User
  3. Admin User
  
-## Guest User
+## 🙍‍♂️ Guest User
  A guest user can access the website without logging in.
 
 1. View homepage:
@@ -26,7 +26,7 @@ A simple and user-friendly Handloom E-commerce Website where users can browse, e
  Multiple shipping addresses for fast checkout.
 3. Checkout and place orders:
  Automatic pre-filling of shipping and billing information.
-4. View order history
+4. 📝 View order history
    1. Order confirmation
    2. Order history
    3. Order tracking (Processing, Shipped, Delivered)
