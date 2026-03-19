@@ -1,5 +1,5 @@
 # 🧵🧣 Handloom E-commerce Platform
-A simple and user-friendly Handloom E-commerce Website where users can browse, explore, and purchase traditional handloom products online.
+📌 A simple and user-friendly Handloom E-commerce Website where users can browse, explore, and purchase traditional handloom products online.
  
 ## The system supports main users.
  1. Guest User
