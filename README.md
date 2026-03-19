@@ -9,28 +9,32 @@
 ## 🙍‍♂️ Guest User
  A guest user can access the website without logging in.
 
-1. View homepage:
- Guest arrives, browses handloom products (Sarees, Top, Material,etc..)
+1. **View homepage:**
+ Guest arrives, browses handloom products (Sarees, Top, Material, etc..)
 2. Search and filter items
-3. View the product details4
+3. View the product details
 4.  Add items to cart:
  Add items to a temporary session-based cart.
-5. Purchases.
 
 ## 📝 Registered/Login User
  A registered user who logs into the system.
  
-1. All guest user features/Authentication:
-   Login vianame, email and phone number.
-2. Save address:
+1. All guest user features/Authentication: 
+    Sign up/Login using name, email, phone and password.
+   
+3. Save address:
  Multiple shipping addresses for fast checkout.
-3. Checkout and place orders:
+
+5. Checkout and place orders:
  Automatic pre-filling of shipping and billing information.
-4. View order history
+ receiver name, receiver phone ni, address, etc..
+
+7. View order history
    1. Order confirmation
    2. Order history
    3. Order tracking (Processing, Shipped, Delivered)
-5. Track orders:
+     
+8. Track orders:
   Order tracking, easy return requests, and loyalty rewards. 
 
   ## 📈 Admin User
@@ -38,14 +42,18 @@
   
   1. Admin Dashboard:
      Login to a specialized dashboard.
-  2. Product Management:
+     
+  3. Product Management:
      1. List new handloom items, upload photos, and set prices.
      2. Add detailed descriptions (weaving techniques, time taken).
      3. Update inventory levels to ensure accuracy, as handloom items are often unique or low-stock.
-  3.  Order Fulfillment:
+     4. Inventory count of product 
+        
+  4.  Order Fulfillment:
      1. View pending orders and customer details.
      2. Update order status (e.g., Packing, Shipped, Delivered).
-  4. Communication:
+      
+  5. Communication:
      Receive alerts for new orders and interact with the platform admin for support    
   
 ## Comparison of Users Table
