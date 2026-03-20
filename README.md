@@ -70,8 +70,29 @@
          3. Periodic sales (from & to)
             
   6. Communication:
-     Receive alerts for new orders and interact with the platform admin for support    
-  
+     Receive alerts for new orders and interact with the platform admin for support
+
+
+ ### Customer Requirements
+    1. Clear Product Information
+    2. High-Quality Products
+    3. Easy Order Process
+    4. Customer Support
+    5. Feedback & Review
+
+    ## Reference Site
+      1. Dribbble:
+         https://dribbble.com/search/handloom
+      2. pinterest:
+         https://www.pinterest.com/search/pins/?q=handloom&rs=typed
+      3. Website:
+         https://www.srilankabusiness.com/apparel/handloom/
+   
+         https://www.eshandlooms.com/
+   
+         https://www.indiahandmade.com/?srsltid=AfmBOoov8J0oBnrR2cfpVF21Glmfa8pPewWVyGQqtBQfZZcMlCEcRrKM
+
+
 ## Comparison of Users Table
 This section compares the workflows of different user types in the Handloom E-commerce platform.
 
@@ -85,27 +106,6 @@ This section compares the workflows of different user types in the Handloom E-co
 | Track Orders                 |  N/A             |   Yes               | Manage Orders     |
 | Dashboard Access             |  N/A             |   N/A               | Full Access       |
 
-
-## Reference Site
-1. Dribbble:
- https://dribbble.com/search/handloom
-2. pinterest:
-  https://www.pinterest.com/search/pins/?q=handloom&rs=typed
-3. Website:
-   https://www.srilankabusiness.com/apparel/handloom/
-   
-   https://www.eshandlooms.com/
-   
-   https://www.indiahandmade.com/?srsltid=AfmBOoov8J0oBnrR2cfpVF21Glmfa8pPewWVyGQqtBQfZZcMlCEcRrKM
-
-
-## Customer Requirements
-1. Clear Product Information
-2. High-Quality Products
-3. Easy Order Process
-4. Customer Support
-5. Feedback & Review
-   
 
 ### Author
 M. Fathima Inshafa
