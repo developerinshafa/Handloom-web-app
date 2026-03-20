@@ -12,51 +12,61 @@
 1. **View homepage:**  
  Guest arrives, browses handloom products (Sarees, Top, Material, etc..)
  Categories : Cotton, Silk, Handmade....
-3. Search and filter items:  
+3. **Search and filter items:**  
    image, peice, description
-4. View the product details
-5.  Add items to cart: 
+4. **View the product details**
+5.  **Add items to cart:** 
    1. update quantity / remove item
    2. Add items to a temporary session-based cart.
 
 ## 📝 Registered/Login User
  A registered user who logs into the system.
  
-1. All guest user features/Authentication: 
+1. **All guest user features/Authentication: **
     Sign up/Login using name, email, phone and password.
    
-3. Save address:
+3. **Save address:**
  Multiple shipping addresses for fast checkout.
 
-5. Checkout and place orders:
+5. **Checkout and place orders:**
  Automatic pre-filling of shipping and billing information.
  receiver name, receiver phone ni, address, etc..
 
-7. View order history
+7. **View order history**
    1. Order confirmation
    2. Order history
    3. Order tracking (Processing, Shipped, Delivered)
      
-8. Track orders:
+8. **Track orders:**
   Order tracking, easy return requests, and loyalty rewards. 
 
   ## 📈 Admin User
   This user type focuses on managing inventory, authenticity, and fulfilling orders.
   
-  1. Admin Dashboard:
+  1. **Admin Dashboard:**
      Login to a specialized dashboard.
      
-  3. Product Management:
+  3. **Product Management:**
      1. List new handloom items, upload photos, and set prices.
      2. Add detailed descriptions (weaving techniques, time taken).
      3. Update inventory levels to ensure accuracy, as handloom items are often unique or low-stock.
      4. Inventory count of product 
         
-  4.  Order Fulfillment:
-     1. View pending orders and customer details.
-     2. Update order status (e.g., Packing, Shipped, Delivered).
-      
-  5. Communication:
+  4.  **Order Fulfillment:**
+      1. View pending orders and customer details.
+      2. Update order status (e.g., Packing, Shipped, Delivered).
+       
+  5. **Report**
+      1. Stock count
+          1. Stock in hand total Quantity
+          2. Stock Issue
+      2. Login Customer List
+      3. Sales / Order
+         1. Daily sales
+         2. Monthly sales
+         3. Periodic sales (from & to)
+            
+  6. Communication:
      Receive alerts for new orders and interact with the platform admin for support    
   
 ## Comparison of Users Table
@@ -72,11 +82,16 @@ This section compares the workflows of different user types in the Handloom E-co
 | Track Orders                 |  N/A             |   Yes               | Manage Orders     |
 | Dashboard Access             |  N/A             |   N/A               | Full Access       |
 
+
 ## Reference Site
 1. Dribbble:
  https://dribbble.com/search/handloom
-3. pinterest:
+2. pinterest:
   https://www.pinterest.com/search/pins/?q=handloom&rs=typed
+3. Website:
+   https://www.srilankabusiness.com/apparel/handloom/
+   https://www.eshandlooms.com/
+   https://www.indiahandmade.com/?srsltid=AfmBOoov8J0oBnrR2cfpVF21Glmfa8pPewWVyGQqtBQfZZcMlCEcRrKM
 
 
 ### Author
