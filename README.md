@@ -22,25 +22,25 @@
 ## 📝 Registered/Login User
  A registered user who logs into the system.
  
-1. **All guest user features/Authentication: **
+**1. All guest user features/Authentication:**
 
     Sign up/Login using name, email, phone and password.
    
-3. **Save address:**
+**2. Save address:**
    
  Multiple shipping addresses for fast checkout.
 
-5. **Checkout and place orders:**
+**3. Checkout and place orders:**
    
  Automatic pre-filling of shipping and billing information.
  receiver name, receiver phone ni, address, etc..
 
-7. **View order history**
+4. **View order history**
    1. Order confirmation
    2. Order history
    3. Order tracking (Processing, Shipped, Delivered)
      
-8. **Track orders:**
+5. **Track orders:**
   Order tracking, easy return requests, and loyalty rewards. 
 
   ## 📈 Admin User
