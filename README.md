@@ -99,5 +99,13 @@ This section compares the workflows of different user types in the Handloom E-co
    https://www.indiahandmade.com/?srsltid=AfmBOoov8J0oBnrR2cfpVF21Glmfa8pPewWVyGQqtBQfZZcMlCEcRrKM
 
 
+## Customer Requirements
+1. Clear Product Information
+2. High-Quality Products
+3. Easy Order Process
+4. Customer Support
+5. Feedback & Review
+   
+
 ### Author
 M. Fathima Inshafa
