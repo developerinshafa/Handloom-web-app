@@ -16,20 +16,22 @@
    image, peice, description
 4. **View the product details**
 5.  **Add items to cart:**
- 
-   1. update quantity / remove item
-   2. Add items to a temporary session-based cart.
+     1. update quantity / remove item
+     2. Add items to a temporary session-based cart.
 
 ## 📝 Registered/Login User
  A registered user who logs into the system.
  
 1. **All guest user features/Authentication: **
+
     Sign up/Login using name, email, phone and password.
    
 3. **Save address:**
+   
  Multiple shipping addresses for fast checkout.
 
 5. **Checkout and place orders:**
+   
  Automatic pre-filling of shipping and billing information.
  receiver name, receiver phone ni, address, etc..
 
