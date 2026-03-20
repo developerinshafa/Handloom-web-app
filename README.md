@@ -15,7 +15,8 @@
 3. **Search and filter items:**  
    image, peice, description
 4. **View the product details**
-5.  **Add items to cart:** 
+5.  **Add items to cart:**
+ 
    1. update quantity / remove item
    2. Add items to a temporary session-based cart.
 
@@ -90,7 +91,9 @@ This section compares the workflows of different user types in the Handloom E-co
   https://www.pinterest.com/search/pins/?q=handloom&rs=typed
 3. Website:
    https://www.srilankabusiness.com/apparel/handloom/
+   
    https://www.eshandlooms.com/
+   
    https://www.indiahandmade.com/?srsltid=AfmBOoov8J0oBnrR2cfpVF21Glmfa8pPewWVyGQqtBQfZZcMlCEcRrKM
 
 
