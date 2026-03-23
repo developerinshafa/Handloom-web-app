@@ -1,47 +1,71 @@
 # Features of Sri Handloom
 My Handloom Logo
-
+https://github.com/developerinshafa/Sri-handloom/blob/main/Sri_Hanloom.png
 
 1. User-Friendly Interface
-    Simple and easy navigation
-    Mobile responsive design
-    Attractive product display
+   
+   1. Simple and easy navigation
+   2. Mobile responsive design
+   3. Attractive product display
    
 2. Product Browsing
-   View handloom products (Sarees, Tops, Materials)
-   Categories: Cotton, Silk, Handmade
-   Product images, price, description
+   
+  1. View handloom products (Sarees, Tops, Materials)
+  2. Categories: Cotton, Silk, Handmade
+  3. Product images, price, description
    
 3. Search & Filter
-   Search by product name
-   Filter by category, material
+   
+   1. Search by product name
+   2. Filter by category, material
    
 4. Registered/Login
-   Login system
+   
+  1. Login system
    
 5. Shopping Cart
-   Add to cart
-   Update quantity
-   Remove items
+   
+   1. Add to cart
+   2. Update quantity
+   3. Remove items
 
 6. Orders Fulfillment
-   Track order status
-      Processing
-      Shipped
-      Delivered
+
+   1. Track order status
+      1. Processing
+      2. Shipped
+      3. Delivered
    
 7. Customer Support
-   Contact support
-   Feedback & reviews
    
-9. Admin Dashboard
-   Add new products
-   Upload images & price
-   Update stock
+   1. Contact support
+   2. Feedback & reviews
+   
+8. Admin Dashboard
+
+   1. Add new products
+   2. Upload images & price
+   3. Update stock
+
+### Development Planning for 20 days.
+UI Development in Week 1
+Create a layout for your homepage. Make a footer and navbar. Create a user interface for product cards. Use CSS or Tailwind CSS styling. Create a simple responsive design
+
+Week 2: Foundations of the Backend
+Configure the backend (Node.js or Express, if applicable). Make product APIs. Set up local data and databases. Describe the data structure (categories, goods).
+
+Connect Frontend to Backend in Week 3
+Obtain product information using the API. Showcase dynamic products. Put category filtering into practice. Include the "Add to Cart" feature. Cart data storage (localStorage/backend)
+
+Polish and Deployment in Week 4
+Enhance the UI/UX design. Make it completely responsive. Testing and bug correction. Enhance performance. Upload to GitHub. Use Netlify  to deploy
+
+## Footer
+Contact information.
 
 
-## Sometimes things cant't be improved
-### Reports & Analytics
+# Sometimes things cant't be improved
+## Reports & Analytics
 
 1. Reports & Analytics
     1. Stock Count
@@ -60,12 +84,3 @@ My Handloom Logo
    2. Stock in hand
    3. Unique products handling
    4. Low stock alerts       
-
-
- ### Development Planning for 20 days.
- 
-   
-
-## Footer
-Contact information.
-
