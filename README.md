@@ -107,7 +107,7 @@ This section compares the workflows of different user types in the Handloom E-co
 | Dashboard Access             |  N/A             |   N/A               | Full Access       |
 
 ### Documentation
-[(Presentation)(https://github.com/developerinshafa/Sri-handloom/blob/main/Sri%20Handloom-web-app.pdf)]
+(Presentation, https://github.com/developerinshafa/Sri-handloom/blob/main/Sri%20Handloom-web-app.pdf)
 
 ### Author
 M. Fathima Inshafa
