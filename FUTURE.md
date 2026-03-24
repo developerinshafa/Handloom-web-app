@@ -1,5 +1,7 @@
 # Features of Sri Handloom
-My Handloom Logo
+
+### My Handloom Logo
+
 https://github.com/developerinshafa/Sri-handloom/blob/main/Sri_Hanloom.png
 
 1. User-Friendly Interface
@@ -47,6 +49,18 @@ https://github.com/developerinshafa/Sri-handloom/blob/main/Sri_Hanloom.png
    2. Upload images & price
    3. Update stock
 
+
+### Technology used
+1. Frontend
+   1. React JS
+   2. Tailwindcss
+2. Backend
+   1. Node JS
+   2. Experess JS
+3. Database
+   1. mongoDB
+
+   
 ### Development Planning for 20 days.
 UI Development in Week 1
 Create a layout for your homepage. Make a footer and navbar. Create a user interface for product cards. Use CSS or Tailwind CSS styling. Create a simple responsive design
