@@ -50,7 +50,7 @@ https://github.com/developerinshafa/Sri-handloom/blob/main/Sri_Hanloom.png
    3. Update stock
 
 
-### Technology used
+### Technology used (MERN Stack)
 1. Frontend
    1. React JS
    2. Tailwindcss
